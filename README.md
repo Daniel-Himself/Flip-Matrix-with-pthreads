@@ -1,4 +1,4 @@
-# Flip-Matrix-with-pthreads
+# Multithreaded Matrix Flip
 This small university project demonstrates the use of multithreading to flip a matrix on its side.
 
 ### The project was graded 100/100
